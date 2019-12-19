@@ -1,0 +1,75 @@
+{
+    "name": "loggr.net",
+    "description": "Monitor your web app events in Loggr, get powerful analytics, notifications and sharing from anywhere... in realtime.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/838-loggr-net.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "logging",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/loggr-net\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "loggr.net",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/838-loggr-net.jpg",
+            "humanURL": "http:\/\/loggr.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/loggr-net-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.loggr.net\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.loggr.net"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.loggr.net\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/loggr"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/loggr"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/docs.loggr.net\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@loggr.net"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/loggr"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/loggrnet"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/loggr.net\/"
+        }
+    ]
+}
